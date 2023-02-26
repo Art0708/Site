@@ -39,8 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #наши приложения
     "note_app",
+    "users"
     #сторонние приложения
-    "bootstrap3"
+    #"bootstrap3"
 ]
 
 MIDDLEWARE = [
